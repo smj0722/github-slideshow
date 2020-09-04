@@ -114,3 +114,7 @@ exclude: [
   "reveal.js/LICENSE",
   "reveal.js/package.json"
 ]
+
+  name: Auto Labeling
+  uses: harupy/auto-labeling@v0.0.2
+
